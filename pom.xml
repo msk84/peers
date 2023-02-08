@@ -16,8 +16,6 @@
     <module>peers-doc</module>
     <module>peers-gui</module>
     <module>peers-javaxsound</module>
-    <module>peers-js</module>
-    <module>peers-jws</module>
     <module>peers-lib</module>
   </modules>
 
